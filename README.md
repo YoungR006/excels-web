@@ -48,7 +48,7 @@ npm run dev
 
 ## 提交与 PR 规范
 
-项目未建立 git 历史，暂无既有提交规范。如初始化 git，建议使用清晰的动词开头，例如 “Fix preview refresh on upload”。
+项目已建立 git 历史，暂无既有提交规范。如初始化 git，建议使用清晰的动词开头，例如 “Fix preview refresh on upload”。
 
 如后续启用 PR：
 - 提供简短说明、关键 UI 截图、可复现步骤。
